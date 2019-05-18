@@ -1,1 +1,1 @@
-javascript:alert("カバディ");
+alert("カバディ")
